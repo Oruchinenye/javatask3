@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="item">Enter Item</string>
+    <string name="price">Price</string>
+    <string name="total">Total: </string>
+    <string name="ok">Continue</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="title_activity_overview">OverviewActivity</string>
+
+    <string name="title">Title</string>
+    <string name="id">ID</string>
+    <string name="name">Name: </string>
+    <string name="username">Username: </string>
+    <string name="email">Email: </string>
+    <string name="name_value">Oru Chinenye</string>
+    <string name="username_value">nancychinny</string>
+    <string name="email_value">oruchinenye12@gmail.com</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="dialog_title">New Grocery</string>
+    <string name="dialog_info">What do you want to add next?</string>
+</resources>
